@@ -23,8 +23,8 @@ Dev hobbista, programmo per ampliare le mie conoscenze e creare nuovi progetti, 
 
 ## 📊 Statistiche GitHub
 
-![RivenDevs's GitHub stats](https://github-stats-extended.vercel.app/api?username=RivenDevs&show_icons=true&theme=default)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RivenDevs&layout=compact)
+![RivenDevs's GitHub stats](https://github-stats-extended.vercel.app/api?username=RivenDevs&show_icons=true&theme=default&count_private=true&cache_seconds=0)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RivenDevs&layout=compact&count_private=true&cache_seconds=0)
 
 ## 📬 Contatti
 
