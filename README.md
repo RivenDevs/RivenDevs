@@ -23,8 +23,8 @@ Hobbyist dev, I code to broaden my knowledge and build new projects, both commis
 
 ## 📊 GitHub stats
 
-![RivenDevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=RivenDevs&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RivenDevs&layout=compact)
+![RivenDevs's GitHub stats](https://github-stats-extended.vercel.app/api?username=RivenDevs&show_icons=true&theme=default)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RivenDevs&layout=compact)
 
 ## 📬 Contact
 
