@@ -6,7 +6,7 @@ Hobbyist dev, I code to broaden my knowledge and build new projects, both commis
 
 ## ⭐ Featured projects
 
-- **[SMG Tracker](https://github.com/RivenDevs/smg-tracker):** A tracker for the stars collected in Super Mario Galaxy and Super Mario Galaxy 2, with per-account progress, live search, and multi-language support (IT/EN). Built with Laravel + Vite.
+![SMG Tracker](https://rivendevs-stats.vercel.app/api/pin/?username=RivenDevs&repo=SMG-Tracker&theme_light=light_github&theme_dark=dark_github&cache_seconds=0)
 
 ## 🛠️ Stack & tools
 
@@ -23,8 +23,8 @@ Hobbyist dev, I code to broaden my knowledge and build new projects, both commis
 
 ## 📊 GitHub stats
 
-![RivenDevs's GitHub stats](https://github-stats-extended.vercel.app/api?username=RivenDevs&show_icons=true&theme=default&count_private=true&cache_seconds=0)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RivenDevs&layout=compact&count_private=true&cache_seconds=0)
+![Top Languages](https://rivendevs-stats.vercel.app/api/top-langs/?username=RivenDevs&theme_light=light_github&theme_dark=dark_github&cache_seconds=0&layout=compact)
+![GitHub Statistics](https://rivendevs-stats.vercel.app/api?username=RivenDevs&theme_light=light_github&theme_dark=dark_github&cache_seconds=0&hide_rank=true&include_all_commits=true&custom_title=GitHub%20Statistics&hide=stars,prs,issues,contribs&width=450)
 
 ## 📬 Contact
 
