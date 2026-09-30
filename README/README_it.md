@@ -1,15 +1,14 @@
 🇬🇧 [English](../README.md) | 🇮🇹 Italiano
 
 # Ciao, sono RivenDevs 👋
-
 Dev hobbista, programmo per ampliare le mie conoscenze e creare nuovi progetti, sia commissionati sia personali.
 
 ## ⭐ Progetti in evidenza
-
-- **[SMG Tracker](https://github.com/RivenDevs/smg-tracker):** Tracker per le stelle raccolte in Super Mario Galaxy e Super Mario Galaxy 2, con progresso per account, ricerca live e supporto multilingua (IT/EN). Costruito con Laravel + Vite.
+<a href="https://github.com/RivenDevs/SMG-Tracker">
+  <img src="https://rivendevs-stats.vercel.app/api/pin/?username=RivenDevs&repo=SMG-Tracker&theme_light=light_github&theme_dark=dark_github&cache_seconds=0" alt="SMG Tracker"/>
+</a>
 
 ## 🛠️ Stack & strumenti
-
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -22,10 +21,11 @@ Dev hobbista, programmo per ampliare le mie conoscenze e creare nuovi progetti, 
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
 
 ## 📊 Statistiche GitHub
-
-![RivenDevs's GitHub stats](https://github-stats-extended.vercel.app/api?username=RivenDevs&show_icons=true&theme=default&count_private=true&cache_seconds=0)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RivenDevs&layout=compact&count_private=true&cache_seconds=0)
+<p align="left">
+  <img align="top" src="https://rivendevs-stats.vercel.app/api/top-langs/?username=RivenDevs&theme_light=light_github&theme_dark=dark_github&cache_seconds=0&layout=compact&custom_title=Linguaggi%20Utilizzati" alt="Linguaggi Utilizzati"/>
+  &nbsp;
+  <img align="top" src="https://rivendevs-stats.vercel.app/api?username=RivenDevs&theme_light=light_github&theme_dark=dark_github&cache_seconds=0&hide_rank=true&include_all_commits=true&custom_title=Statistiche%20GitHub&hide=stars,prs,issues,contribs&width=450" alt="GitHub Statistics"/>
+</p>
 
 ## 📬 Contatti
-
 - ✉️ Email: [rivendev@outlook.com](mailto:rivendev@outlook.com)
